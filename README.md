@@ -1,3 +1,19 @@
+# organo
+
+Projeto do curso da Alura de React "desenvolvendo com JavaScript".
+
+Aqui temos uma aplicação que vai gerir os colaboradores da Alura, separados por escolas.
+Neste formulário, inserimos os dados e criamos um card para cada colaborador.
+
+Aulas do curso:
+  Aula 1 - Uma biblioteca declarativa 
+  Aula 2 - Trabalhando com props
+  Aula 3 - Interagindo com o usuário
+  Aula 4 - Montando os times
+  Aula 5 - Caça aos bugs
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
